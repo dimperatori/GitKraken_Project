@@ -3,7 +3,7 @@ Garlic Pasta
 Menu Class: Main Course
 
 Description:
-this is a new dessert
+This is simple yet irresistable. You can serve a large portion as a main dish at dinner parties. Don't put to much garlic.
 
 Ingredients
 1. 8 ounces spiral pasta
