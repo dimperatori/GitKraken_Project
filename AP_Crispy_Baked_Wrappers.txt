@@ -5,6 +5,9 @@ Menu Class: Appetizers
 Description:
 Baked wonton wrappers filled with cheesy sausage. This is perfect for parties!!
 
+Possible Alergies:
+Alergies to cheese
+
 Srvings: 5 People
 Preparation Time: 
 5 min
@@ -28,5 +31,3 @@ Directions
 7. In medium bown, mix sausage, Monterey Jack, Cheddar, black olives and Ranch-style dressing. 
 8. Fill the baked wonton wrapper cups with the mixture.
 9. Baked the filled wonton wrappers 15 minutes, until the sausage mixture is bubbly and slightly brown. Watch closely so the wonton wrappers do not burn.
-10. Add 1/2 tablespon of spring roll dipping sauce
-11. O put the sauce on the side for individual dipping.
